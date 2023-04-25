@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ShutdownTimer": {
+      "commandName": "Project",
+      "commandLineArgs": "100"
+    }
+  }
+}
